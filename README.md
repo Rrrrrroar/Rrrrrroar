@@ -1,16 +1,31 @@
-### Hi there 👋
+## Hello 👋
 
-<!--
-**Rrrrrroar/Rrrrrroar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github account! I'm YOUR NAME a ... enthusiast.
+In this account, you'll find projects, and resources about ...
+I hope you enjoy my content and find it useful.
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlstown&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+### About me
+
+- :computer: I’m currently studying ...
+- :microscope: I’m currently learning `AI applied`.
+- :v: I’m looking to colaborate on coding for ...
+
+
+### My favorite repos
+
+- :desktop_computer: **[My repo](#):**.
+- :desktop_computer: **[My repo](#):**.
+- :desktop_computer: **[My repo](#):**.
+
+
+### Thank you!
+
+If you have any questions, or comments, please get in touch.
+
+Happy coding! :vulcan_salute:
+
+-- @username
