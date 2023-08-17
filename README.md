@@ -1,4 +1,4 @@
-## Hello 👋
+## Chookity pok 👋
 
 Welcome to my Github account! I'm YOUR NAME a ... enthusiast.
 In this account, you'll find projects, and resources about ...
@@ -10,9 +10,9 @@ I hope you enjoy my content and find it useful.
 
 ### About me
 
-- :computer: I’m currently studying ...
+- :brain: I’m currently working in suicide prevention
 - :microscope: I’m currently learning `AI applied`.
-- :v: I’m looking to colaborate on coding for ...
+- :v: I’m looking to survive while coding basic things
 
 
 ### My favorite repos
@@ -28,4 +28,4 @@ If you have any questions, or comments, please get in touch.
 
 Happy coding! :vulcan_salute:
 
--- @username
+-- @Rrrrrroar
