@@ -1,7 +1,7 @@
 ## Chookity pok 👋
 
 Welcome to my Github account! I'm Ro a human behaviour enthusiast.
-In this account, you'll findme surviving through an pretty cool AI applied course to get me started in this world
+In this account, you'll find me surviving through an pretty cool AI applied course to get me started in this world
 I hope you enjoy my content and find it useful.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrrrrroar&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
