@@ -11,7 +11,7 @@ I hope you enjoy my content and find it amusiung.
 ### About me
 
 - :brain: I’m currently working in suicide prevention
-- :openbook: I’m currently learning `AI applied`.
+- :book: I’m currently learning `AI applied`.
 - :v: I’m looking to survive while learning basic coding
 
 
