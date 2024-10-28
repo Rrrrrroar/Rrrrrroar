@@ -1,8 +1,8 @@
 ## Hello there 👋
 
-Welcome to my Github account! I'm Ro, a human behaviour enthusiast.
-In this account, you'll find me surviving through a pretty cool AI applied course to get me started in this world.
-I hope you enjoy my content and find it amusing.
+Welcome to my Github account! I'm Ro, an animal behaviour enthusiast.
+In this account, you'll find me surviving through AI courses to get me started in this world.
+I hope you enjoy my content, and find the multiple existential crisis I'll have amusing.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrrrrroar&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
