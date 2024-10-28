@@ -10,8 +10,8 @@ I hope you enjoy my content and find it amusing.
 
 ### About me
 
-- :brain: I’m currently working in suicide prevention
-- :book: I’m currently learning `AI applied`.
+- :brain: I’m currently working as a Psychologist
+- :book: I’m currently learning `AI`.
 - :v: I’m looking to survive while learning basic coding
 
 
