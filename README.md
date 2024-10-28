@@ -1,4 +1,4 @@
-## Chookity pok 👋
+## Hello there 👋
 
 Welcome to my Github account! I'm Ro, a human behaviour enthusiast.
 In this account, you'll find me surviving through a pretty cool AI applied course to get me started in this world.
